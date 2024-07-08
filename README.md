@@ -4,7 +4,6 @@
 [![twitter](https://flat.badgen.net/badge/twitter/@garrettkjohnson/?icon&label)](https://twitter.com/garrettkjohnson)
 [![sponsors](https://img.shields.io/github/sponsors/gkjohnson?style=flat-square&color=1da1f2)](https://github.com/sponsors/gkjohnson/)
 
-![image](https://github.com/luckyshinystar7/threejs-sandbox/assets/172367046/8aefc886-7c90-4987-8277-e32ee7421172)
 
 
 Set of experiments and extensions to THREE.js. These pages are a sandbox of examples and not necessarily ready to include in projects and may require some work to properly and performantly integrate.
